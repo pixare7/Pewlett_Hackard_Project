@@ -1,5 +1,5 @@
 
--- Data Engineering: Table Schemata
+-- Table Schemata
 
 --------------------------------------------------------------------------------------------
 
@@ -80,6 +80,4 @@ FROM 'C:/repos/sql-project/data/salaries.csv'
 DELIMITER ','
 CSV HEADER;
 
---------------------------------------------------------------------------------------------
--- Qs
--- accurately define value length for columns? 
+
